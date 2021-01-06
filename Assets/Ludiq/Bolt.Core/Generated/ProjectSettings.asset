@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: ProjectSettings
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"dictionary":{"projectSetupCompleted":{"$content":true,"$type":"System.Boolean"},"savedVersion":{"major":1,"minor":4,"patch":12,"label":null,"increment":0,"$type":"Ludiq.SemanticVersion"}}}'
+    _json: '{"dictionary":{"projectSetupCompleted":{"$content":true,"$type":"System.Boolean"},"savedVersion":{"major":1,"minor":4,"patch":13,"label":null,"increment":0,"$type":"Ludiq.SemanticVersion"}}}'
     _objectReferences: []

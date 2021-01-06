@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"dictionary":{"favoriteUnitOptions":{"$content":[],"$type":"System.Collections.Generic.HashSet`1[[System.String,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"projectSetupCompleted":{"$content":true,"$type":"System.Boolean"},"savedVersion":{"major":1,"minor":4,"patch":12,"label":null,"increment":0,"$type":"Ludiq.SemanticVersion"}}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"projectSetupCompleted":{"$content":true,"$type":"System.Boolean"},"savedVersion":{"major":1,"minor":4,"patch":13,"label":null,"increment":0,"$type":"Ludiq.SemanticVersion"}}}'
     _objectReferences: []
