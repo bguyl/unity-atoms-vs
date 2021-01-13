@@ -1,0 +1,19 @@
+﻿name: CI
+on:
+  push:
+    branches:
+      - develop
+jobs:
+  split-upm:
+    name: split upm branch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: split upm branch
+        run: |
+          git subtree split -P "$PKG_ROOT" -b main
+          git push -u origin main
+        env:
+          PKG_ROOT: Packages/me.guyl.atoms-vs
