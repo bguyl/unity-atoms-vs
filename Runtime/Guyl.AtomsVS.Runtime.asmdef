@@ -1,0 +1,18 @@
+{
+    "name": "Guyl.AtomsVS.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:14165214884ae4a619bfb290f28194a7",
+        "GUID:29492541a59d04a81b47a7f225e8a22d",
+        "GUID:eb5f5029f11da2f468a17a2b57e28054"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
