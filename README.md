@@ -19,7 +19,7 @@ Improve your workflow with scriptable object architecture and visual scripting !
 
 ### Atoms Variables
 
-![Nodes atoms variables]("Documentation~/nodes-atoms-variables.jpg")
+![Nodes atoms variables](Documentation~/nodes-atoms-variables.jpg)
 
 - Bool Variable
 - Collider2D Variable
@@ -35,7 +35,7 @@ Improve your workflow with scriptable object architecture and visual scripting !
 
 ### Atoms Events
 
-![Nodes atoms events]("Documentation~/nodes-atoms-events.jpg")
+![Nodes atoms events](Documentation~/nodes-atoms-events.jpg)
 
 - AtomBaseVariable Event
 - Bool Event
