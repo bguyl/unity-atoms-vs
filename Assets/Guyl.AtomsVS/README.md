@@ -1,15 +1,13 @@
 ﻿Atoms nodes for Visual Scripting 
 ================================
 
-----------------------------------------------------------------------------------------
-
-A.K.A Bolt Addons for Atoms
+*A.K.A Bolt Addons for Atoms*
 
 ----------------------------------------------------------------------------------------
 
-> Add new Visual Scripting (previously [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802))
-> nodes for a better [Unity Atoms](https://github.com/AdamRamberg/unity-atoms) integration.
-> Improve your workflow with scriptable object architecture and visual scripting !
+Add new Visual Scripting (previously [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802))
+nodes for a better [Unity Atoms](https://github.com/AdamRamberg/unity-atoms) integration.
+Improve your workflow with scriptable object architecture and visual scripting !
 
 ## Summary
 
@@ -21,7 +19,7 @@ A.K.A Bolt Addons for Atoms
 
 ### Atoms Variables
 
-![Nodes atoms variables]("./Documentation~/nodes-atoms-variables.jpg")
+![Nodes atoms variables]("Documentation~/nodes-atoms-variables.jpg")
 
 - Bool Variable
 - Collider2D Variable
@@ -37,7 +35,7 @@ A.K.A Bolt Addons for Atoms
 
 ### Atoms Events
 
-![Nodes atoms events]("./Documentation~/nodes-atoms-events.jpg")
+![Nodes atoms events]("Documentation~/nodes-atoms-events.jpg")
 
 - AtomBaseVariable Event
 - Bool Event
