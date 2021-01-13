@@ -16,4 +16,4 @@ jobs:
           git subtree split -P "$PKG_ROOT" -b main
           git push -u origin main
         env:
-          PKG_ROOT: Packages/me.guyl.atoms-vs
+          PKG_ROOT: Assets/Guyl.AtomsVS
