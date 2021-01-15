@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Test
   m_EditorClassIdentifier: 
   _data:
-    _json: 
-    _objectReferences: []
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-4082.5,"y":-2223.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{"":{"$content":0,"$type":"UnityEngine.Object"}},"position":{"x":-4166.0,"y":-2281.0},"guid":"54619f12-9da7-4b1f-827b-34fb0fcb228a","$version":"A","$type":"Guyl.BoltAtoms.Events.StringEventUnit","$id":"9"},{"chainable":false,"member":{"name":"Log","parameterTypes":["System.Object"],"targetType":"UnityEngine.Debug","targetTypeName":"UnityEngine.Debug","$version":"A"},"defaultValues":{},"position":{"x":-3849.0,"y":-2269.0},"guid":"73e298cc-f453-46c0-b43b-1138bd801925","$version":"A","$type":"Bolt.InvokeMember","$id":"11"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"enter","guid":"61529d02-2372-44cd-938a-0f6504531df4","$type":"Bolt.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"","destinationUnit":{"$ref":"11"},"destinationKey":"%message","guid":"33dda7f3-441e-4d5c-93e7-91d598abe69b","$type":"Bolt.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 23e33cefcd2c66442b73bd3179e992fa, type: 2}

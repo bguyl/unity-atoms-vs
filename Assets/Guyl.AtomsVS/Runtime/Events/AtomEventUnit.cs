@@ -2,11 +2,11 @@
 {
 	using Bolt;
 	using Ludiq;
-	using Bolt.Community.Addons.Fundamentals.Editor.Controls;
 	using UnityAtoms;
 	using UnityAtoms.BaseAtoms;
 	using UnityEngine;
 	using System;
+	using AtomsVS.Runtime.Utility;
 
 	public abstract class AtomEventUnit<T, V> : MachineEventUnit<EmptyEventArgs> where T : AtomEvent<V>
 	{
@@ -15,7 +15,7 @@
 		[DoNotSerializeAttribute] public ValueInput _event;
 		[DoNotSerializeAttribute] public ValueOutput _value;
 
-		[DoNotSerialize, UnitHeaderInspectable, UnitButtonAttribute("TriggerButton")]
+		[DoNotSerialize, UnitHeaderInspectable, UnitButton("TriggerButton")]
 		public UnitButton _triggerButton;
 		#endregion Public
 
@@ -41,7 +41,7 @@
 		#endregion Protected
 
 		#region Public
-		public virtual void TriggerButton(GraphReference reference)
+		public void TriggerButton(GraphReference reference)
 		{
 			if (Application.isEditor && Application.isPlaying)
 			{
@@ -63,8 +63,11 @@
 				_currentValue = value;
 			};
 
-			currentEvent.Unregister(_eventRaisedHandler);
-			currentEvent.Register(_eventRaisedHandler);
+			if (currentEvent)
+			{
+				currentEvent.Unregister(_eventRaisedHandler);
+				currentEvent.Register(_eventRaisedHandler);				
+			}
 		}
 
 		public override void StopListening(GraphStack stack)
@@ -72,7 +75,7 @@
 			base.StopListening(stack);
 
 			T currentVoidEvent = Flow.FetchValue<T>(_event, stack.ToReference());
-			currentVoidEvent.Unregister(_eventRaisedHandler);
+			currentVoidEvent?.Unregister(_eventRaisedHandler);
 		}
 		#endregion Public
 		#endregion METHODS

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7434e853-9d85-4d8b-a01f-bcaf7e62ef70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/UnitButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/UnitButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/UnitButtonAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/UnitButtonAttribute.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graph/test.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graph/test.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/ProjectSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/ProjectSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/ApplicationVariables.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/ApplicationVariables.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/SavedVariables.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/SavedVariables.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/Generated/ProjectSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/Generated/ProjectSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/Generated/ProjectSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/Generated/ProjectSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/Generated/ProjectSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/Generated/ProjectSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A8D8754-1626-41E5-9E37-BD3941623B78/66/eda2d25b/LudiqGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A8D8754-1626-41E5-9E37-BD3941623B78/d7/89266381/Inspector.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/530BE7A6-3E38-4568-9921-AFF0CCE92163/1b/6bbb40f4/UnitWidget`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Events/Units/ManualEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/a2/ecad13e3/MonoMethod.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Events/Units/TriggerDefinedEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/24/24cf7f03/Type.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Fundamentals/Controls/UnitButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Fundamentals/Controls/UnitButtonPropertyDrawer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Fundamentals/Controls/UnitButtonInspector.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Utility/UnitButtonPropertyDrawer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Fundamentals/Controls/UnitButtonAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/71/d2133bc7/MonoMethodInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Utility/UnitButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Utility/UnitButtonInspector.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Utility/UnitButtonAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/UnitButtonAttribute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Controls/UnitButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Controls/UnitButtonAttribute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/UnitButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Events/AtomEventUnit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Utility/UnitButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Utility/UnitButtonAttribute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonAttribute.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonPropertyDrawer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Utility/UnitButtonInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Utility/UnitButtonPropertyDrawer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/package.json" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/README.md" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1n7ODR0A2dWKmgKdCBOPYvGhS9p" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.40140846" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="21140">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="21140" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7434e853-9d85-4d8b-a01f-bcaf7e62ef70" name="Default Changelist" comment="" />
+      <created>1610737555573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610737555573</updated>
+      <workItem from="1610737555786" duration="378000" />
+      <workItem from="1610738088219" duration="8939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Events/AtomEventUnit.cs</url>
+          <line>45</line>
+          <properties documentPath="C:\Users\Bastien\Documents\WorkspaceSSD\Unity\AtomsVS\Assets\Guyl.AtomsVS\Runtime\Events\AtomEventUnit.cs" initialLine="45" containingFunctionPresentation="method 'TriggerButton'">
+            <startOffsets>
+              <option value="1135" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1185" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression=" typeObject.GetType().GetMethod(method)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

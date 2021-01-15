@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Bastien\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Bastien\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_AtomsVS.2145627241.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Bastien\Documents\WorkspaceSSD\Unity\AtomsVS" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FoobarAction.cs" t="Include" />
+        <e p="Guyl.AtomsVS" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Controls" t="Include">
+              <e p="UnitButton.cs" t="Include" />
+              <e p="UnitButtonAttribute.cs" t="Include" />
+              <e p="UnitButtonInspector.cs" t="Include" />
+              <e p="UnitButtonPropertyDrawer.cs" t="Include" />
+            </e>
+            <e p="Guyl.AtomsVS.Editor.asmdef" t="Include" />
+            <e p="Utility" t="Include">
+              <e p="UnitButtonInspector.cs" t="Include" />
+              <e p="UnitButtonPropertyDrawer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="Events" t="Include">
+              <e p="AtomEventUnit.cs" t="Include" />
+            </e>
+            <e p="Guyl.AtomsVS.Runtime.asmdef" t="Include" />
+            <e p="Utility" t="Include">
+              <e p="UnitButton.cs" t="Include" />
+              <e p="UnitButtonAttribute.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Ludiq" t="Include">
+          <e p="Assemblies" t="Include">
+            <e p="Bolt.Core.Editor.xml" t="Include" />
+            <e p="Bolt.Core.Runtime.xml" t="Include" />
+            <e p="Bolt.Flow.Editor.xml" t="Include" />
+            <e p="Bolt.Flow.Runtime.xml" t="Include" />
+            <e p="Bolt.State.Editor.xml" t="Include" />
+            <e p="Bolt.State.Runtime.xml" t="Include" />
+            <e p="Ionic.Zip.xml" t="Include" />
+            <e p="Ludiq.Core.Editor.xml" t="Include" />
+            <e p="Ludiq.Core.Runtime.xml" t="Include" />
+            <e p="Ludiq.Graphs.Editor.xml" t="Include" />
+            <e p="Ludiq.Graphs.Runtime.xml" t="Include" />
+            <e p="Ludiq.Platforms.xml" t="Include" />
+            <e p="MiscUtil.xml" t="Include" />
+            <e p="YamlDotNet.xml" t="Include" />
+          </e>
+          <e p="Bolt" t="Include">
+            <e p="Documentation" t="Include">
+              <e p="0. READ ME FIRST.txt" t="Include" />
+            </e>
+            <e p="LICENSES.txt" t="Include" />
+          </e>
+          <e p="Ludiq.Core" t="Include">
+            <e p="DotNetDocumentation" t="Include">
+              <e p="Microsoft.Build.Conversion.v3.5.xml" t="Include" />
+              <e p="Microsoft.Build.Engine.xml" t="Include" />
+              <e p="Microsoft.Build.Framework.xml" t="Include" />
+              <e p="Microsoft.Build.Utilities.v3.5.xml" t="Include" />
+              <e p="Microsoft.VisualC.STLCLR.xml" t="Include" />
+              <e p="mscorlib.xml" t="Include" />
+              <e p="System.AddIn.Contract.xml" t="Include" />
+              <e p="System.AddIn.xml" t="Include" />
+              <e p="System.ComponentModel.DataAnnotations.xml" t="Include" />
+              <e p="System.Configuration.Install.xml" t="Include" />
+              <e p="System.Configuration.xml" t="Include" />
+              <e p="System.Core.xml" t="Include" />
+              <e p="System.Data.DataSetExtensions.xml" t="Include" />
+              <e p="System.Data.Entity.Design.xml" t="Include" />
+              <e p="System.Data.Entity.xml" t="Include" />
+              <e p="System.Data.Linq.xml" t="Include" />
+              <e p="System.Data.Services.Client.xml" t="Include" />
+              <e p="System.Data.Services.Design.xml" t="Include" />
+              <e p="System.Data.Services.xml" t="Include" />
+              <e p="System.Data.SqlXml.xml" t="Include" />
+              <e p="System.Data.xml" t="Include" />
+              <e p="System.Deployment.xml" t="Include" />
+              <e p="System.DirectoryServices.AccountManagement.xml" t="Include" />
+              <e p="System.DirectoryServices.xml" t="Include" />
+              <e p="System.Drawing.xml" t="Include" />
+              <e p="System.EnterpriseServices.xml" t="Include" />
+              <e p="System.IdentityModel.xml" t="Include" />
+              <e p="System.Management.Instrumentation.xml" t="Include" />
+              <e p="System.Management.xml" t="Include" />
+              <e p="System.Messaging.xml" t="Include" />
+              <e p="System.Net.xml" t="Include" />
+              <e p="System.Printing.xml" t="Include" />
+              <e p="System.Runtime.Remoting.xml" t="Include" />
+              <e p="System.Runtime.Serialization.Formatters.Soap.xml" t="Include" />
+              <e p="System.Runtime.Serialization.xml" t="Include" />
+              <e p="System.Security.xml" t="Include" />
+              <e p="System.ServiceModel.Web.xml" t="Include" />
+              <e p="System.ServiceModel.xml" t="Include" />
+              <e p="System.ServiceProcess.xml" t="Include" />
+              <e p="System.Transactions.xml" t="Include" />
+              <e p="System.Web.Abstractions.xml" t="Include" />
+              <e p="System.Web.DynamicData.Design.xml" t="Include" />
+              <e p="System.Web.DynamicData.xml" t="Include" />
+              <e p="System.Web.Entity.Design.xml" t="Include" />
+              <e p="System.Web.Entity.xml" t="Include" />
+              <e p="System.Web.Extensions.Design.xml" t="Include" />
+              <e p="System.Web.Extensions.xml" t="Include" />
+              <e p="System.Web.Routing.xml" t="Include" />
+              <e p="System.Web.Services.xml" t="Include" />
+              <e p="System.Windows.Forms.xml" t="Include" />
+              <e p="System.Windows.Presentation.xml" t="Include" />
+              <e p="System.WorkflowServices.xml" t="Include" />
+              <e p="System.xml" t="Include" />
+              <e p="System.Xml.Linq.xml" t="Include" />
+              <e p="System.Xml.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Spawner.cs" t="Include" />
+      </e>
+      <e p="AtomsVS.sln" t="IncludeFlat" />
+      <e p="Guyl.AtomsVS.Editor.csproj" t="IncludeRecursive" />
+      <e p="Guyl.AtomsVS.Runtime.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

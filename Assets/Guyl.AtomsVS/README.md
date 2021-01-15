@@ -75,12 +75,26 @@ Improve your workflow with scriptable object architecture and visual scripting !
 This package required:
 
 - [Bolt (1.4.13 or greater)](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802)
-- [UnityAtoms (4.4.2 or greater)](https://github.com/AdamRamberg/unity-atoms)
-- [Bolt.Addons.Community (3.0.0 or greater)](https://github.com/RealityStop/Bolt.Addons.Community) (for the trigger drawer)
+- [Unity Atoms Base Atoms (4.4.2 or greater)](https://github.com/AdamRamberg/unity-atoms)
 
-The prefered way to install this package is via [openupm-cli](https://github.com/openupm/openupm-cli)
+#### 1. Add the package to the project 
+
+The preferred way to install this package is via [openupm-cli](https://github.com/openupm/openupm-cli)
 
 ````
 openupm add me.guyl.atoms-vs
 ````
 
+#### 2. Configure Bolt
+
+Open the Unit Options Wizard
+
+![Bolt Unit Wizard](Documentation~/bolt-unit-wizard.jpg)
+
+Add `Guyl.AtomsVS.Runtime` in the Assembly Options
+
+![Bolt Assembly  Options](Documentation~/bolt-assembly-options.jpg)
+
+Then click on `Next` and `Generate`
+
+Congrats, you're now good to go 🎉
