@@ -1,7 +1,7 @@
 {
   "name": "me.guyl.atoms-vs",
   "displayName": "Unity Atoms Visual Scripting",
-  "version": "1.0.0-preview.1",
+  "version": "1.0.0-preview.2",
   "description": "Atoms nodes for Visual Scripting",
   "license": "MIT",
   "unity": "2019.4",
@@ -12,8 +12,6 @@
     "url": "https://bastien.guyl.me"
   },
   "dependencies": {
-    "com.mambojambostudios.unity-atoms-core": "4.4.2",
-    "com.mambojambostudios.unity-atoms-base-atoms": "4.4.2",
-    "dev.bolt.addons": "3.0.0"
+    "com.mambojambostudios.unity-atoms-base-atoms": "4.4.2"
   }
 }
