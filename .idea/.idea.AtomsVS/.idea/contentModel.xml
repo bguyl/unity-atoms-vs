@@ -21,6 +21,7 @@
               <e p="UnitButtonPropertyDrawer.cs" t="Include" />
             </e>
           </e>
+          <e p="linkmerge.xml" t="Include" />
           <e p="Runtime" t="Include">
             <e p="Events" t="Include">
               <e p="AtomEventUnit.cs" t="Include" />
@@ -112,6 +113,10 @@
               <e p="System.xml" t="Include" />
               <e p="System.Xml.Linq.xml" t="Include" />
               <e p="System.Xml.xml" t="Include" />
+            </e>
+            <e p="Generated" t="Include">
+              <e p="AotStubs.cs" t="Include" />
+              <e p="link.xml" t="Include" />
             </e>
           </e>
         </e>

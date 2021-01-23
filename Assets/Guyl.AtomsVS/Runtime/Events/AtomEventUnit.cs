@@ -8,6 +8,7 @@
 	using System;
 	using AtomsVS.Runtime.Utility;
 
+	[IncludeInSettings(true)]
 	public abstract class AtomEventUnit<T, V> : MachineEventUnit<EmptyEventArgs> where T : AtomEvent<V>
 	{
 		#region FIELDS

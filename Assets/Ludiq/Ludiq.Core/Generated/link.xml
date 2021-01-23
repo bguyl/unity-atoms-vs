@@ -1,0 +1,7 @@
+<linker>
+  <assembly fullname="Ludiq.Core.Runtime" preserve="all" />
+  <assembly fullname="Ludiq.Graphs.Runtime" preserve="all" />
+  <assembly fullname="Bolt.Core.Runtime" preserve="all" />
+  <assembly fullname="Bolt.State.Runtime" preserve="all" />
+  <assembly fullname="Bolt.Flow.Runtime" preserve="all" />
+</linker>
