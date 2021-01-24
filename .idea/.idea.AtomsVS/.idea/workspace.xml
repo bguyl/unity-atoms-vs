@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7434e853-9d85-4d8b-a01f-bcaf7e62ef70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/linkmerge.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/linkmerge.xml.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Graph/test.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graph/test.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Events/AtomEventUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Events/AtomEventUnit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +124,7 @@
       <workItem from="1610870339970" duration="2960000" />
       <workItem from="1610994218941" duration="4438000" />
       <workItem from="1611415839490" duration="3334000" />
-      <workItem from="1611436085172" duration="1313000" />
+      <workItem from="1611436085172" duration="2777000" />
     </task>
     <servers />
   </component>
