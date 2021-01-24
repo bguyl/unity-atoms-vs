@@ -81,7 +81,7 @@ This package required [Bolt (1.4.13 or greater)](https://assetstore.unity.com/pa
 The preferred way to install this package is via [openupm-cli](https://github.com/openupm/openupm-cli)
 
 ````
-openupm add me.guyl.atoms-vs
+openupm add me.guyl.atoms-vs@1.0.0
 ````
 
 This way, it will automatically download all the dependencies
