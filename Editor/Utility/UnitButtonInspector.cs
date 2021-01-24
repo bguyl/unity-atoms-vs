@@ -23,8 +23,8 @@
 namespace Guyl.AtomsVS.Editor.Utility
 {
     using UnityEngine;
-    using Ludiq;
     using Runtime.Utility;
+    using Unity.VisualScripting;
 
     [Inspector(typeof(UnitButton))]
     public class UnitButtonInspector : Inspector
@@ -40,7 +40,7 @@ namespace Guyl.AtomsVS.Editor.Utility
         {
             BeginBlock(metadata, position, GUIContent.none);
 
-            var buttonPosition = new Rect(
+            Rect buttonPosition = new Rect(
                 position.x,
                 position.y,
                 position.width + 8,
@@ -49,15 +49,15 @@ namespace Guyl.AtomsVS.Editor.Utility
 
             if (GUI.Button(buttonPosition, "Trigger", new GUIStyle(UnityEditor.EditorStyles.miniButton)))
             {
-                var attribute = metadata.GetAttribute<UnitButtonAttribute>(true);
+                UnitButtonAttribute attribute = metadata.GetAttribute<UnitButtonAttribute>(true);
 
                 if (attribute != null)
                 {
-                    var method = attribute.action;
+                    string method = attribute.action;
 
                     object typeObject = metadata.parent.value;
                     GraphReference reference = GraphWindow.activeReference;
-                    typeObject.GetType().GetMethod(method).Invoke(typeObject, new object[1] { reference });
+                    typeObject.GetType().GetMethod(method)?.Invoke(typeObject, new object[1] { reference });
 
                 }
             }

@@ -1,9 +1,11 @@
 {
     "name": "Guyl.AtomsVS.Runtime",
-    "rootNamespace": "",
+    "rootNamespace": "Guyl.AtomsVS.Runtime",
     "references": [
         "GUID:14165214884ae4a619bfb290f28194a7",
-        "GUID:29492541a59d04a81b47a7f225e8a22d"
+        "GUID:29492541a59d04a81b47a7f225e8a22d",
+        "GUID:21b0c8d1703a94250bfac916590cea4f",
+        "GUID:ea715009a4efd4c6cbc85be3ae097dd3"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

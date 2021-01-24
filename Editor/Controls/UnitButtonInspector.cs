@@ -22,8 +22,8 @@
 
 namespace Guyl.AtomsVS.Editor.Controls
 {
+    using Unity.VisualScripting;
     using UnityEngine;
-    using Ludiq;
 
     [Inspector(typeof(UnitButton) )]
     public class UnitButtonInspector : Inspector

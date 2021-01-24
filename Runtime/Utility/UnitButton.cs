@@ -22,7 +22,7 @@
 
 namespace Guyl.AtomsVS.Runtime.Utility
 {
-    using Ludiq;
+    using Unity.VisualScripting;
 
     [Inspectable]
     public class UnitButton

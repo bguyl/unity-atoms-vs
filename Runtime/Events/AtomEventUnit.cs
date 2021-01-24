@@ -1,7 +1,6 @@
 ﻿namespace Guyl.BoltAtoms.Events
 {
-	using Bolt;
-	using Ludiq;
+	using Unity.VisualScripting;
 	using UnityAtoms;
 	using UnityAtoms.BaseAtoms;
 	using UnityEngine;
@@ -27,7 +26,7 @@
 		#endregion Private
 		#endregion FIELDS
 
-		#region Properties
+		#region PropertiesMachineEventUnit
 		protected override string hookName => "UnityAtomEvent";
 		#endregion Properties
 
