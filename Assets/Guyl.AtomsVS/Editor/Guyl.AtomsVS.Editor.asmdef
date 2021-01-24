@@ -1,8 +1,10 @@
 {
     "name": "Guyl.AtomsVS.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "Guyl.AtomsVS.Editor",
     "references": [
-        "GUID:e3651765d08255f4bbce3c03079bcb7a"
+        "GUID:e3651765d08255f4bbce3c03079bcb7a",
+        "GUID:21b0c8d1703a94250bfac916590cea4f",
+        "GUID:54cb1906aeb4e4264bc1d2aa3818a43f"
     ],
     "includePlatforms": [
         "Editor"

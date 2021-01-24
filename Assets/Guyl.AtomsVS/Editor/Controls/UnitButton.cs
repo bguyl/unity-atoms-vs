@@ -22,7 +22,7 @@
 
 namespace Guyl.AtomsVS.Editor.Controls
 {
-    using Ludiq;
+    using Unity.VisualScripting;
 
     [Inspectable]
     public class UnitButton

@@ -2,8 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7434e853-9d85-4d8b-a01f-bcaf7e62ef70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Bolt.Generated/VisualScripting.Flow/UnitOptions.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AtomsVS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonInspector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonInspector.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Guyl.AtomsVS.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Guyl.AtomsVS.Editor.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Utility/UnitButtonInspector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Utility/UnitButtonInspector.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Events/AtomEventUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Events/AtomEventUnit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Guyl.AtomsVS.Runtime.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Guyl.AtomsVS.Runtime.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Utility/UnitButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Utility/UnitButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bolt.Generated.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/BoolVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/BoolVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/Collider2DVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/Collider2DVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/ColliderVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/ColliderVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/ColorVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/ColorVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/FloatVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/FloatVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/GameObjectVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/GameObjectVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/IntVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/IntVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/QuaternionVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/QuaternionVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/StringVariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/StringVariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/Vector2VariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/Vector2VariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/Vector3VariableUnit.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Variables/Vector3VariableUnit.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Guyl.AtomsVS/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bolt.Generated/VisualScripting.Flow.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bolt.Generated/VisualScripting.Flow/UnitOptions.db.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/ProjectSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/ApplicationVariables.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/ApplicationVariables.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/SavedVariables.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/SavedVariables.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/Generated.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/Generated/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.Flow/Generated/ProjectSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/Generated.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/Generated/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.State/Generated/ProjectSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Bolt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/AotStubs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/AotStubs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Core/Generated/link.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/Generated.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/Generated/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ludiq/Ludiq.Graphs/Generated/ProjectSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +83,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -22,24 +101,11 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0A8D8754-1626-41E5-9E37-BD3941623B78/d7/89266381/Inspector.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/243840E3-F5CA-402E-9B79-02A417235769/67/6fac93da/EmptyEventArgs.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/530BE7A6-3E38-4568-9921-AFF0CCE92163/1b/6bbb40f4/UnitWidget`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Events/Units/ManualEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Events/Units/TriggerGlobalDefinedEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Events/Units/EveryXSeconds.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/a2/ecad13e3/MonoMethod.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Events/Units/TriggerDefinedEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Events/Units/GlobalDefinedEventUnit.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/976766E7-B990-43BD-A58E-171223812AAB/60/25d97601/MachineEventUnit`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Events/Units/DefinedEventUnit.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/24/24cf7f03/Type.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Fundamentals/Controls/UnitButton.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Fundamentals/Controls/UnitButtonPropertyDrawer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Fundamentals/Controls/UnitButtonInspector.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Utility/UnitButtonPropertyDrawer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Fundamentals/Controls/UnitButtonAttribute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/71/d2133bc7/MonoMethodInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Utility/UnitButton.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Editor/Utility/UnitButtonInspector.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.bolt.addons@119ecfa151/Runtime/Utility/UnitButtonAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.5.1-pre.3/Runtime/VisualScripting.Flow/Framework/Events/MachineEventUnit.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -47,19 +113,19 @@
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Controls/UnitButton.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Controls/UnitButtonAttribute.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/UnitButton.cs" />
-      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Utility/UnitButton.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Utility/UnitButtonAttribute.cs" />
-      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButton.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonAttribute.cs" />
-      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonInspector.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonPropertyDrawer.cs" />
-      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Utility/UnitButtonInspector.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Utility/UnitButtonPropertyDrawer.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/link.xml" />
-      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Events/AtomEventUnit.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/linkmerge.xml" />
-      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/package.json" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Events/AtomEventUnit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Runtime/Utility/UnitButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Controls/UnitButtonInspector.cs" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/Editor/Utility/UnitButtonInspector.cs" />
       <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/README.md" />
+      <option value="$PROJECT_DIR$/Assets/Guyl.AtomsVS/package.json" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1n7ODR0A2dWKmgKdCBOPYvGhS9p" />
@@ -125,6 +191,7 @@
       <workItem from="1610994218941" duration="4438000" />
       <workItem from="1611415839490" duration="3334000" />
       <workItem from="1611436085172" duration="2777000" />
+      <workItem from="1611484108484" duration="2727000" />
     </task>
     <servers />
   </component>
