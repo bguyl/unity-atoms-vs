@@ -14,7 +14,7 @@ Improve your workflow with scriptable object architecture and visual scripting !
 ## Summary
 
 * [Available Nodes](https://github.com/bguyl/unity-atoms-vs#available-nodes)
-* [Installation](https://github.com/bguyl/unity-atoms-vs#available-nodes)
+* [Installation](https://github.com/bguyl/unity-atoms-vs#installation)
     
 
 ## Available Nodes
@@ -84,7 +84,7 @@ The preferred way to install this package is via [openupm-cli](https://github.co
 openupm add me.guyl.atoms-vs
 ````
 
-This way, it will automatically download all the dependencies.
+This way, it will automatically download all the dependencies
 
 Otherwise, you will have to manually install the following packages:
 
