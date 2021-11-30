@@ -38,7 +38,7 @@ namespace Guyl.AtomsVS.Editor.Utility
 
         protected override void OnGUI(Rect position, GUIContent label)
         {
-            BeginBlock(metadata, position, GUIContent.none);
+            BeginBlock(metadata, position);
 
             Rect buttonPosition = new Rect(
                 position.x,
