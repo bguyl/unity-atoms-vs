@@ -1,7 +1,7 @@
 {
   "name": "me.guyl.atoms-vs",
   "displayName": "Unity Atoms Visual Scripting",
-  "version": "2.0.0-preview.1",
+  "version": "2.0.0",
   "description": "Atoms nodes for Visual Scripting",
   "license": "MIT",
   "unity": "2021.1",
@@ -12,7 +12,7 @@
     "url": "https://bastien.guyl.me"
   },
     "dependencies": {
-      "com.unity.visualscripting": "1.5.1-pre.3",
+      "com.unity.visualscripting": "1.7.6",
       "com.unity-atoms.unity-atoms-base-atoms": "4.4.2",
       "com.realitystop.linkmerge": "1.0.0"
     }
