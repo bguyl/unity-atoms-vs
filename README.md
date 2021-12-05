@@ -56,24 +56,22 @@ Improve your workflow with scriptable object architecture and visual scripting !
 
 ## Installation
 
-### 1. Add the package to the project 
+### Add the package to the project
 
 The preferred way to install this package is via [openupm-cli](https://github.com/openupm/openupm-cli)
 
 ````
-openupm add me.guyl.atoms-vs@2.0.0-preview.1
+openupm add me.guyl.atoms-vs@2.0.0
 ````
 
 This way, it will automatically download all the dependencies
 
 Otherwise, you will have to manually install the following packages:
 
-- [Unity Visual Scripting](https://docs.unity3d.com/bolt/1.4/manual/index.html) (from package manager)
+- [Unity Visual Scripting](https://docs.unity3d.com/Packages/com.unity.visualscripting@1.7) (from package manager)
 - [Unity Atoms Core (4.4.2 or greater)](https://github.com/unity-atoms/unity-atoms)
-- [Unity Atoms Base Atoms (4.4.2 or greater)](https://github.com/unity-atoms/unity-atoms)
 - [LinkMerge (1.0.0 or greater)](https://github.com/RealityStop/Unity.CustomPackage.LinkMerge)
 
-Then click on `Next` and `Generate`
 
 ----------------------------------------------------------------------------------------
 
