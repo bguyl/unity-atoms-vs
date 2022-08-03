@@ -1,7 +1,7 @@
 {
   "name": "me.guyl.atoms-vs",
   "displayName": "Unity Atoms Visual Scripting",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Atoms nodes for Visual Scripting",
   "license": "MIT",
   "unity": "2021.1",
