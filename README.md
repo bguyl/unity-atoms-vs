@@ -61,7 +61,7 @@ Improve your workflow with scriptable object architecture and visual scripting !
 The preferred way to install this package is via [openupm-cli](https://github.com/openupm/openupm-cli)
 
 ````
-openupm add me.guyl.atoms-vs@2.0.0
+openupm add me.guyl.atoms-vs@2.0.1
 ````
 
 This way, it will automatically download all the dependencies
